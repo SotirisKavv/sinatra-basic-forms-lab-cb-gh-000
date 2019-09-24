@@ -17,5 +17,5 @@ class Puppy
 
     def self.all
       @@all
-    ends
+    end
 end
