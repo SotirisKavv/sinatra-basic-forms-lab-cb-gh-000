@@ -4,7 +4,7 @@ class Puppy
     attr_reader :breed
 
     @@all = []
-    
+
     def initialize(name = nil, breed = nil, months_old = nil)
       @name = name
       @breed = breed
